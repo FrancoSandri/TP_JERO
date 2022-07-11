@@ -10,7 +10,22 @@ ModelImporter:
     2300000: //RootNode
     3300000: //RootNode
     4300000: FINAL
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 3a3043d4d94b338419a704bc1285701f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: f47b0534475e07e459b9a03894b2fa95, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lH8yTHvm
+    second: {fileID: 2800000, guid: 49d0f4ef0c2c6854baa2931f5ce9cb65, type: 3}
   materials:
     importMaterials: 1
     materialName: 0
